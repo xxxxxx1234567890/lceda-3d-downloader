@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+*.step
+*.obj
+*.png
+*.jpg
+.DS_Store
+.vscode/
+.idea/
+*.egg-info/
+dist/
+build/
